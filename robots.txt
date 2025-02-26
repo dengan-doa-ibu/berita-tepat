@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dengan-doa-ibu.github.io/berita-tepat/sitemap.xml
